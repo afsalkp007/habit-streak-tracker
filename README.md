@@ -4,6 +4,21 @@ A sleek, minimalist, offline-first React Native mobile app built with Expo, Type
 
 ---
 
+## 📱 App Previews
+
+<p align="center">
+  <img src="assets/screenshots/app-dashboard.png" width="45%" alt="Habit Streak Tracker Dashboard" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="assets/screenshots/add-habit-modal.png" width="45%" alt="Add Habit Modal with Color & Icon Picker" />
+</p>
+
+<p align="center">
+  <em>Left: Dashboard with flame streak badges, 7-day mini heatmap strips, and daily progress bar.<br/>
+  Right: Habit customization modal with color themes, icon selectors, and category pills.</em>
+</p>
+
+---
+
 ## ✨ Features
 
 - **Daily Check-Off with Tactile Haptics**: Tap any habit to complete or undo with instant tactile feedback.
