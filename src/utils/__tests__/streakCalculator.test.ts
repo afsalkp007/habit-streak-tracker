@@ -50,5 +50,5 @@ test('streakCalculator - computes past 7 days status array', () => {
   assert.strictEqual(stats.last7DaysStatus.length, 7);
   const todayItem = stats.last7DaysStatus.find(s => s.isToday);
   assert.ok(todayItem);
-  assert.strictEqual(todayItem.completed, true);
+  assert.strictEqual(todayItem?.completed, true);
 });
